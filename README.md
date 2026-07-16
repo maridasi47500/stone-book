@@ -1,6 +1,19 @@
-🪨 Stone Book: Plan Your Day
+🪨 Stone Note Book: Plan Your Day
 
     “Today, popular is a statue made of stone... or a gemstone in your notebook.”
+peu importe ce pourquoi tu utilises ton notebook cree toi le notebook que tu veux mais avec des langages informatiques pour mieux le personnaliser.
+If you are writing notes about stones, minerals, geology, gemstones, the natural English term is:
+
+• a geology notebook
+• a stone notebook
+• a mineralogy notebook
+• a field notebook (if used outdoors)
+a ju py ter notebook is not about planet (julia, python, r programming languages is to write equuations in cells) unless you choose to weite about planetts in it.
+
+
+
+But not “stonebook” — that word already has a different meaning
+
 
 Welcome to Stone Book, a digital sanctuary where frameworks become temples, ideas sparkle like gems, and each day is a story waiting to be written.
 🌟 What Is Popular?
